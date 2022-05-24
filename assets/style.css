@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 50%;
+    border: 1px solid #454545;
+    border-radius: 5px;
+}
